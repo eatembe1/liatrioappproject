@@ -14,4 +14,5 @@ It is made up of the following files:
 - 3) eks-worker-nodes.tf to provision 
 1) Another IAM role allowing Kubernetes actions to access other AWS services because we expect the worker nodes to scale in case of traffic. 
 2) create EKS node group to launch worker nodes
-3) 
+3) Variables.tf where I will be declaring my variables 
+4) output.tf
