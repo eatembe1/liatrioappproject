@@ -12,3 +12,4 @@ run "npm run start" on your local terminal. On your browser, do httpd://localhos
 - Package.json file add the neccessary dependencies, displays the REST API version and runs a script to starts the node app.
 - Dockerfile which will be used to build the docker image and run in a kubernetes cluster in aws platform. The Dockerfile defines the working directory, and copies the package.json
 file to the working directory. 
+The content was created from a local dev-env branch and pushed to the remote repository to be merged to the main branch. 
