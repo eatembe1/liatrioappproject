@@ -1,5 +1,5 @@
 # liatrioappproject
-title: 'Node.js application exposing a REST endpoint returning the message:"Automate all the things!", and a current "timestamp":1644852951'
+Title: 'Node.js application exposing a REST endpoint returning the message:"Automate all the things!", and a current "timestamp":1644852951'
 Note that: the timestamp is expressed in seconds and will vary depending on you current local time. 
 layout: Doc
 platform: AWS
